@@ -1,0 +1,41 @@
+# 月歌AI 必要ライブラリ
+
+# Deep Learning Framework
+torch>=2.0.0
+transformers>=4.35.0
+
+# Japanese NLP
+fugashi>=1.2.1
+ipadic>=1.0.0
+unidic-lite>=1.0.8
+mojimoji>=0.0.12
+jaconv>=0.3
+
+# rinna model
+sentencepiece>=0.1.99
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# API Framework (後で使用
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.0.0
+
+# Database (後で使用)
+sqlalchemy>=2.0.0
+pymysql>=1.1.0
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0
+click>=8.1.0
+
+# Development
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+jupyter>=1.0.0
+ipykernel>=6.25.0
