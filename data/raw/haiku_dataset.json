@@ -1,0 +1,137 @@
+[
+  {
+    "text": "古池や蛙飛びこむ水の音",
+    "metadata": {
+      "author": "芭蕉",
+      "theme": "自然",
+      "has_moon": false,
+      "has_autumn": false
+    }
+  },
+  {
+    "text": "夏草や兵どもが夢の跡",
+    "metadata": {
+      "author": "芭蕉",
+      "theme": "夏",
+      "has_moon": false,
+      "has_autumn": false
+    }
+  },
+  {
+    "text": "閑さや岩にしみ入る蝉の声",
+    "metadata": {
+      "author": "芭蕉",
+      "theme": "夏",
+      "has_moon": false,
+      "has_autumn": false
+    }
+  },
+  {
+    "text": "五月雨を集めて早し最上川",
+    "metadata": {
+      "author": "芭蕉",
+      "theme": "月,自然",
+      "has_moon": true,
+      "has_autumn": false
+    }
+  },
+  {
+    "text": "秋深き隣は何をする人ぞ",
+    "metadata": {
+      "author": "芭蕉",
+      "theme": "秋",
+      "has_moon": false,
+      "has_autumn": true
+    }
+  },
+  {
+    "text": "名月や池をめぐりて夜もすがら",
+    "metadata": {
+      "author": "不明",
+      "theme": "月,自然",
+      "has_moon": true,
+      "has_autumn": false
+    }
+  },
+  {
+    "text": "月天心貧しき町を通りけり",
+    "metadata": {
+      "author": "不明",
+      "theme": "月",
+      "has_moon": true,
+      "has_autumn": false
+    }
+  },
+  {
+    "text": "いくたびも月の兎を思ひけり",
+    "metadata": {
+      "author": "不明",
+      "theme": "月",
+      "has_moon": true,
+      "has_autumn": false
+    }
+  },
+  {
+    "text": "月明や石に出て聴く虫の声",
+    "metadata": {
+      "author": "不明",
+      "theme": "月",
+      "has_moon": true,
+      "has_autumn": false
+    }
+  },
+  {
+    "text": "秋の夜や旅の男の針仕事",
+    "metadata": {
+      "author": "子規",
+      "theme": "秋",
+      "has_moon": false,
+      "has_autumn": true
+    }
+  },
+  {
+    "text": "秋風や模様の違ふ皿二つ",
+    "metadata": {
+      "author": "子規",
+      "theme": "秋,自然",
+      "has_moon": false,
+      "has_autumn": true
+    }
+  },
+  {
+    "text": "この道や行く人なしに秋の暮",
+    "metadata": {
+      "author": "子規",
+      "theme": "秋",
+      "has_moon": false,
+      "has_autumn": true
+    }
+  },
+  {
+    "text": "月光にスマホの画面青白し",
+    "metadata": {
+      "author": "現代",
+      "theme": "月",
+      "has_moon": true,
+      "has_autumn": false
+    }
+  },
+  {
+    "text": "秋の夜長メールの返事待ちわびる",
+    "metadata": {
+      "author": "現代",
+      "theme": "秋",
+      "has_moon": false,
+      "has_autumn": true
+    }
+  },
+  {
+    "text": "満月やコンビニの灯も優しかり",
+    "metadata": {
+      "author": "現代",
+      "theme": "月",
+      "has_moon": true,
+      "has_autumn": false
+    }
+  }
+]
